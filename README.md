@@ -1,6 +1,6 @@
 ### Fábio Henrique 👋
 
-    - Analista e desenvolvedor de sistemas na Angular e-Commerce e Pagamentos Digitais LTDA
+    - Analista e desenvolvedor de sistemas
     - Programador Javascript
     - Brincando atualmente com SvelteKit...
 ##
