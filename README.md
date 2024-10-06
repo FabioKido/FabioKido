@@ -2,7 +2,6 @@
 
     - Analista e desenvolvedor de sistemas
     - Programador Javascript
-    - Brincando atualmente com SvelteKit...
 ##
 ### Onde estou
 
