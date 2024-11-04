@@ -1,6 +1,6 @@
 ### Fábio Henrique 👋
 
-    - Analista e desenvolvedor de sistemas
+    - Analista e Desenvolvedor de Sistemas
     - Programador Javascript
 ##
 ### Onde estou
